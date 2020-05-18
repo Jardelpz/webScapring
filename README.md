@@ -1,10 +1,10 @@
 # Web Scraping GitHub
 
-How technology comes to automate and optimize processes, i decided doing something like that to developers. You just need input the name of project and program goes to github, logs in, goes to new repository page, inform the repository's name typed by you, get the project's adress github, and execute the creating commands, opens the VScode with a readme.md already started.
+How technology comes to automate and optimize processes, i decided doing something like that to developers. You just need input the name of project and program goes to github, logs in, goes to new repository page, inform the repository's name typed by you, get the project's adress from github, and execute the creating commands, opens the VScode with a readme.md already started.
 
 ## Getting Started
 
-To run and test the program, you basically need to put this files above some directory, like a root default and type node server.js. From there your project will always path default/name_of_project. 
+To run and test the program, you basically need to put this files above some directory, like a root default 'foo' and type node server.js. From there your project will always path foo/name_of_project. 
 
 ## Built With
 
