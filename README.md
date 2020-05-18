@@ -8,7 +8,7 @@ How technology comes to automate and optimize processes, i decided doing somethi
 
 ## Getting Started
 
-To run and test the program, you basically need to put this files above some directory, like a root default 'foo' and type node server.js. From there your project will always path foo/name_of_project. 
+To run and test the program, you basically need to put this files above some directory, like a root default 'foo', edit datas.json to your credencials on github and run 'node server.js'. From there your projects will always path foo/name_of_project. 
 
 ## Built With
 
