@@ -1,6 +1,6 @@
 # Web Scraping GitHub
 
-How technology comes to automate and optimize processes, i decided a stuff like that to devolopers. You just need input the name of propject and program goes to github, log in, go to new repository page, inform the repository's you typed, get the project's adress github, and execute the creating commands github, open the VScode with a readme.md started.
+How technology comes to automate and optimize processes, i decided doing something like that to developers. You just need input the name of project and program goes to github, logs in, goes to new repository page, inform the repository's name typed by you, get the project's adress github, and execute the creating commands, opens the VScode with a readme.md already started.
 
 ## Getting Started
 
@@ -9,6 +9,7 @@ To run and test the program, you basically need to put this files above some dir
 ## Built With
 
 * [Nodejs](https://nodejs.org/en/) - JavaScript runtime built
+* [Puppeteer] (https://pptr.dev/) - Puppeteer is a Node library which provides a high-level API to control Chrome
 
 ## Next Step
 
