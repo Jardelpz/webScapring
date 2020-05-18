@@ -9,7 +9,7 @@ To run and test the program, you basically need to put this files above some dir
 ## Built With
 
 * [Nodejs](https://nodejs.org/en/) - JavaScript runtime built
-* [Puppeteer] (https://pptr.dev/) - Puppeteer is a Node library which provides a high-level API to control Chrome
+* [Puppeteer](https://pptr.dev/) - Puppeteer is a Node library which provides a high-level API to control Chrome
 
 ## Next Step
 
