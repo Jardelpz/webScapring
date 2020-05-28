@@ -8,10 +8,9 @@ const readline = require('readline-sync')
 const shell = require('shelljs').exec;
 
 
-const direct='C:/Users/jarde/Automated/'
+const direct='C:/Users/jarde/Automated/' // path you want to be the root of your nexts projects
 let projectName = undefined
 var project_dir = undefined
-// let contentReadme = "Será que dará certo?"
 
 projectName = readline.question(`What's project name?  `);       
 project_dir = path.join(direct, projectName)
